@@ -15,14 +15,14 @@ p {
 	font-weight: bold;
 	font-size: 50px;
 	text-align: center;
-	font-family: 'Georgia', serif;
-	background-color: #3C474B;
+	font-family: 'Arial', serif;
+	background-color: cyan;
 	color: #C0E0DE;
 }
 h4 {
 	font-style: italic;
 	font-size: 40px;
-	font-family: 'Georgia', serif;
+	font-family: 'Arial', serif;
 }
 h3 {
 	font-size: 30px;
